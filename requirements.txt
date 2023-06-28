@@ -1,0 +1,6 @@
+kivy==2.0.0
+https://github.com/kivymd/KivyMD/archive/master.zip
+youtube-search-python
+googletrans
+BeautifulSoup4
+pyrebase
